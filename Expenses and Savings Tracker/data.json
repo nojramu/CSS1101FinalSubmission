@@ -1,0 +1,147 @@
+{
+    "users": {
+        "tan": {
+            "email": "tristan@gmail.com",
+            "password": "aA1"
+        }
+    },
+    "transactions": {
+        "tan": [
+            {
+                "id": 1,
+                "date": "2025-11-03",
+                "type": "Expense",
+                "amount": 119.0,
+                "category": "Transportation",
+                "description": "N/A",
+                "timestamp": "2025-11-04T22:04:08.526725"
+            },
+            {
+                "id": 2,
+                "date": "2025-11-02",
+                "type": "Income",
+                "amount": 1000.0,
+                "category": "Allowance",
+                "description": "N/A",
+                "timestamp": "2025-11-04T22:14:28.093372"
+            },
+            {
+                "id": 3,
+                "date": "2025-11-04",
+                "type": "Expense",
+                "amount": 50.0,
+                "category": "Food & Groceries",
+                "description": "N/A",
+                "timestamp": "2025-11-04T22:15:10.047007"
+            },
+            {
+                "id": 4,
+                "date": "2025-11-04",
+                "type": "Expense",
+                "amount": 100.0,
+                "category": "Personal Needs",
+                "description": "haircutt",
+                "timestamp": "2025-11-04T22:15:40.468965"
+            },
+            {
+                "id": 5,
+                "date": "2025-11-05",
+                "type": "Expense",
+                "amount": 20.0,
+                "category": "Transportation",
+                "description": "train",
+                "timestamp": "2025-11-06T20:53:37.120772"
+            },
+            {
+                "id": 6,
+                "date": "2025-11-05",
+                "type": "Income",
+                "amount": 150.0,
+                "category": "Allowance",
+                "description": "N/A",
+                "timestamp": "2025-11-06T20:54:07.364140"
+            },
+            {
+                "id": 7,
+                "date": "2025-11-06",
+                "type": "Expense",
+                "amount": 53.0,
+                "category": "Transportation",
+                "description": "N/A",
+                "timestamp": "2025-11-06T20:55:29.041642"
+            },
+            {
+                "id": 8,
+                "date": "2025-11-06",
+                "type": "Expense",
+                "amount": 50.0,
+                "category": "Food & Groceries",
+                "description": "mcdo",
+                "timestamp": "2025-11-06T20:55:49.712759"
+            },
+            {
+                "id": 9,
+                "date": "2025-11-06",
+                "type": "Income",
+                "amount": 25.0,
+                "category": "Gift",
+                "description": "N/A",
+                "timestamp": "2025-11-06T20:56:52.776060"
+            },
+            {
+                "id": 10,
+                "date": "2025-11-07",
+                "type": "Expense",
+                "amount": 30.0,
+                "category": "Food & Groceries",
+                "description": "ICE CREAMM",
+                "timestamp": "2025-11-11T19:53:41.949043"
+            },
+            {
+                "id": 11,
+                "date": "2025-11-08",
+                "type": "Expense",
+                "amount": 495.0,
+                "category": "Food & Groceries",
+                "description": "food for gala bruh",
+                "timestamp": "2025-11-11T19:54:39.039550"
+            },
+            {
+                "id": 12,
+                "date": "2025-11-08",
+                "type": "Expense",
+                "amount": 237.0,
+                "category": "Transportation",
+                "description": "intra gala and school transpo",
+                "timestamp": "2025-11-11T19:56:32.277954"
+            },
+            {
+                "id": 13,
+                "date": "2025-11-09",
+                "type": "Income",
+                "amount": 1000.0,
+                "category": "Allowance",
+                "description": "N/A",
+                "timestamp": "2025-11-11T19:57:33.978994"
+            },
+            {
+                "id": 14,
+                "date": "2025-11-11",
+                "type": "Expense",
+                "amount": 200.0,
+                "category": "Bills",
+                "description": "no baon, bigay kay mama ulit",
+                "timestamp": "2025-11-11T19:58:21.897736"
+            },
+            {
+                "id": 15,
+                "date": "2025-11-10",
+                "type": "Expense",
+                "amount": 200.0,
+                "category": "Bills",
+                "description": "no baon, sauli kay mama",
+                "timestamp": "2025-11-11T19:58:48.000028"
+            }
+        ]
+    }
+}
