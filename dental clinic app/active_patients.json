@@ -1,0 +1,764 @@
+[
+    {
+        "firstName": "Juan",
+        "lastName": "Santos",
+        "bday": "1978-09-27",
+        "contact": "09368241267",
+        "balance": 0,
+        "schedule": "2025-11-16",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Braces Adjustment",
+                "amount": 1500,
+                "date": "2025-10-05",
+                "paid": 1500
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Maria",
+        "lastName": "Lopez",
+        "bday": "1979-02-09",
+        "contact": "09317208312",
+        "balance": 0,
+        "schedule": "2025-11-19",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 2500,
+                "date": "2025-10-25",
+                "paid": 2500
+            },
+            {
+                "name": "Cleaning",
+                "amount": 2500,
+                "date": "2025-09-26",
+                "paid": 2500
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Carlos",
+        "lastName": "Reyes",
+        "bday": "1996-08-25",
+        "contact": "09574022634",
+        "balance": 300,
+        "schedule": "2025-11-18",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 300,
+                "date": "2025-11-01",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Ana",
+        "lastName": "Gomez",
+        "bday": "1979-08-13",
+        "contact": "09351711876",
+        "balance": 1200,
+        "schedule": "2025-11-13",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 2500,
+                "date": "2025-11-05",
+                "paid": 2500
+            },
+            {
+                "name": "Root Canal",
+                "amount": 700,
+                "date": "2025-10-16",
+                "paid": 700
+            },
+            {
+                "name": "Root Canal",
+                "amount": 1200,
+                "date": "2025-09-30",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Miguel",
+        "lastName": "Torres",
+        "bday": "1979-12-19",
+        "contact": "09436655284",
+        "balance": 1706,
+        "schedule": "2025-11-17",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Extraction",
+                "amount": 2500,
+                "date": "2025-10-27",
+                "paid": 794
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Isabel",
+        "lastName": "Navarro",
+        "bday": "1992-09-24",
+        "contact": "09885913406",
+        "balance": 2000,
+        "schedule": "2025-11-18",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 500,
+                "date": "2025-10-02",
+                "paid": 0
+            },
+            {
+                "name": "Braces Adjustment",
+                "amount": 1500,
+                "date": "2025-09-21",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Diego",
+        "lastName": "Morales",
+        "bday": "1983-03-25",
+        "contact": "09245284624",
+        "balance": 721,
+        "schedule": "2025-11-20",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 300,
+                "date": "2025-11-07",
+                "paid": 0
+            },
+            {
+                "name": "Whitening",
+                "amount": 700,
+                "date": "2025-09-25",
+                "paid": 375
+            },
+            {
+                "name": "Extraction",
+                "amount": 300,
+                "date": "2025-09-17",
+                "paid": 204
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Sofia",
+        "lastName": "Alvarez",
+        "bday": "1987-10-04",
+        "contact": "09484429729",
+        "balance": 83,
+        "schedule": "2025-11-16",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 700,
+                "date": "2025-10-05",
+                "paid": 617
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Ricardo",
+        "lastName": "Fernandez",
+        "bday": "1988-08-26",
+        "contact": "09913054103",
+        "balance": 0,
+        "schedule": "2025-11-17",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 1200,
+                "date": "2025-10-11",
+                "paid": 1200
+            },
+            {
+                "name": "Crown",
+                "amount": 300,
+                "date": "2025-09-23",
+                "paid": 300
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Elena",
+        "lastName": "Vargas",
+        "bday": "1995-03-21",
+        "contact": "09506419041",
+        "balance": 1790,
+        "schedule": "2025-11-22",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 2500,
+                "date": "2025-09-24",
+                "paid": 710
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Gabriel",
+        "lastName": "Pineda",
+        "bday": "2005-10-02",
+        "contact": "09145323252",
+        "balance": 503,
+        "schedule": "2025-11-12",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Extraction",
+                "amount": 500,
+                "date": "2025-10-27",
+                "paid": 101
+            },
+            {
+                "name": "Extraction",
+                "amount": 300,
+                "date": "2025-10-17",
+                "paid": 196
+            },
+            {
+                "name": "Extraction",
+                "amount": 300,
+                "date": "2025-10-04",
+                "paid": 300
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Laura",
+        "lastName": "Castillo",
+        "bday": "1984-08-28",
+        "contact": "09472318613",
+        "balance": 67,
+        "schedule": "2025-11-15",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 700,
+                "date": "2025-10-06",
+                "paid": 700
+            },
+            {
+                "name": "Root Canal",
+                "amount": 300,
+                "date": "2025-10-24",
+                "paid": 233
+            },
+            {
+                "name": "Braces Adjustment",
+                "amount": 1500,
+                "date": "2025-10-02",
+                "paid": 1500
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "Ramos",
+        "bday": "1991-08-18",
+        "contact": "09468751894",
+        "balance": 140,
+        "schedule": "2025-11-16",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 300,
+                "date": "2025-11-07",
+                "paid": 160
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Lucia",
+        "lastName": "Mendoza",
+        "bday": "1978-02-17",
+        "contact": "09975287230",
+        "balance": 2414,
+        "schedule": "2025-11-13",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 700,
+                "date": "2025-10-15",
+                "paid": 633
+            },
+            {
+                "name": "Whitening",
+                "amount": 2500,
+                "date": "2025-09-18",
+                "paid": 653
+            },
+            {
+                "name": "Cleaning",
+                "amount": 500,
+                "date": "2025-10-21",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Fernando",
+        "lastName": "Ortiz",
+        "bday": "2001-10-01",
+        "contact": "09572236881",
+        "balance": 2500,
+        "schedule": "2025-11-17",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 2500,
+                "date": "2025-11-11",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Valeria",
+        "lastName": "Cruz",
+        "bday": "2003-04-23",
+        "contact": "09236713524",
+        "balance": 4043,
+        "schedule": "2025-11-14",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 2500,
+                "date": "2025-10-30",
+                "paid": 0
+            },
+            {
+                "name": "Whitening",
+                "amount": 1500,
+                "date": "2025-10-06",
+                "paid": 0
+            },
+            {
+                "name": "Extraction",
+                "amount": 300,
+                "date": "2025-10-26",
+                "paid": 257
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Javier",
+        "lastName": "Flores",
+        "bday": "1998-11-16",
+        "contact": "09632732629",
+        "balance": 1400,
+        "schedule": "2025-11-20",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 700,
+                "date": "2025-11-02",
+                "paid": 0
+            },
+            {
+                "name": "Whitening",
+                "amount": 700,
+                "date": "2025-10-26",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Camila",
+        "lastName": "Silva",
+        "bday": "1987-03-11",
+        "contact": "09593386316",
+        "balance": 1200,
+        "schedule": "2025-11-16",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 1200,
+                "date": "2025-11-11",
+                "paid": 0
+            },
+            {
+                "name": "Crown",
+                "amount": 2500,
+                "date": "2025-10-25",
+                "paid": 2500
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Diaz",
+        "bday": "1999-02-08",
+        "contact": "09780390355",
+        "balance": 759,
+        "schedule": "2025-11-21",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Filling",
+                "amount": 500,
+                "date": "2025-11-06",
+                "paid": 143
+            },
+            {
+                "name": "Crown",
+                "amount": 1500,
+                "date": "2025-10-23",
+                "paid": 1298
+            },
+            {
+                "name": "Filling",
+                "amount": 1200,
+                "date": "2025-09-22",
+                "paid": 1000
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Paula",
+        "lastName": "Gutierrez",
+        "bday": "1996-10-24",
+        "contact": "09137906216",
+        "balance": 700,
+        "schedule": "2025-11-14",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 700,
+                "date": "2025-11-10",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Rafael",
+        "lastName": "Marquez",
+        "bday": "1971-12-05",
+        "contact": "09241488380",
+        "balance": 2500,
+        "schedule": "2025-11-18",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 500,
+                "date": "2025-09-17",
+                "paid": 500
+            },
+            {
+                "name": "Extraction",
+                "amount": 2500,
+                "date": "2025-10-21",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Carla",
+        "lastName": "Herrera",
+        "bday": "2001-05-05",
+        "contact": "09733851637",
+        "balance": 718,
+        "schedule": "2025-11-16",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 500,
+                "date": "2025-09-17",
+                "paid": 482
+            },
+            {
+                "name": "Braces Adjustment",
+                "amount": 700,
+                "date": "2025-11-05",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Alberto",
+        "lastName": "Vega",
+        "bday": "1994-12-15",
+        "contact": "09963079106",
+        "balance": 0,
+        "schedule": "2025-11-12",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 1200,
+                "date": "2025-09-18",
+                "paid": 1200
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Gabriela",
+        "lastName": "Aguilar",
+        "bday": "1994-02-22",
+        "contact": "09630113978",
+        "balance": 1535,
+        "schedule": "2025-11-17",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Filling",
+                "amount": 300,
+                "date": "2025-10-18",
+                "paid": 300
+            },
+            {
+                "name": "Crown",
+                "amount": 500,
+                "date": "2025-09-25",
+                "paid": 465
+            },
+            {
+                "name": "Extraction",
+                "amount": 1500,
+                "date": "2025-09-17",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Emilio",
+        "lastName": "Rojas",
+        "bday": "1984-06-18",
+        "contact": "09442000223",
+        "balance": 300,
+        "schedule": "2025-11-12",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Braces Adjustment",
+                "amount": 300,
+                "date": "2025-10-09",
+                "paid": 0
+            },
+            {
+                "name": "Whitening",
+                "amount": 700,
+                "date": "2025-09-25",
+                "paid": 700
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Monica",
+        "lastName": "Valdez",
+        "bday": "1980-04-18",
+        "contact": "09903119836",
+        "balance": 0,
+        "schedule": "2025-11-13",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Crown",
+                "amount": 300,
+                "date": "2025-10-27",
+                "paid": 300
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Hector",
+        "lastName": "Castro",
+        "bday": "1998-05-23",
+        "contact": "09628525783",
+        "balance": 700,
+        "schedule": "2025-11-22",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 700,
+                "date": "2025-09-27",
+                "paid": 0
+            },
+            {
+                "name": "Cleaning",
+                "amount": 300,
+                "date": "2025-10-13",
+                "paid": 300
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Natalia",
+        "lastName": "Bravo",
+        "bday": "1997-07-21",
+        "contact": "09901270891",
+        "balance": 1808,
+        "schedule": "2025-11-22",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Cleaning",
+                "amount": 1500,
+                "date": "2025-10-23",
+                "paid": 0
+            },
+            {
+                "name": "Extraction",
+                "amount": 300,
+                "date": "2025-11-05",
+                "paid": 292
+            },
+            {
+                "name": "Cleaning",
+                "amount": 300,
+                "date": "2025-10-14",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Sebastian",
+        "lastName": "Salazar",
+        "bday": "1992-08-06",
+        "contact": "09138244094",
+        "balance": 2500,
+        "schedule": "2025-11-16",
+        "scheduleStatus": false,
+        "procedure": [
+            {
+                "name": "Whitening",
+                "amount": 2500,
+                "date": "2025-10-05",
+                "paid": 0
+            }
+        ],
+        "status": "unpaid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    },
+    {
+        "firstName": "Clara",
+        "lastName": "Palacios",
+        "bday": "1987-05-10",
+        "contact": "09796039965",
+        "balance": 0,
+        "schedule": "2025-11-12",
+        "scheduleStatus": true,
+        "procedure": [
+            {
+                "name": "Root Canal",
+                "amount": 700,
+                "date": "2025-10-15",
+                "paid": 700
+            }
+        ],
+        "status": "paid",
+        "isActive": true,
+        "lastUpdated": "2025-11-12"
+    }
+]
